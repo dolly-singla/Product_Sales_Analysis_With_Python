@@ -47,13 +47,13 @@ After downloading, place the dataset (`electronics.csv`) in the project director
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/dolly-singla/Product_Sales_Analysis_With_Python.git
 ```
 
 2. Navigate to the project folder.
 
 ```bash
-cd <repository-name>
+cd Product_Sales_Analysis_With_Python
 ```
 
 3. Install the required libraries.
