@@ -29,18 +29,6 @@ This project performs an exploratory data analysis (EDA) on Amazon Electronics s
 
 ---
 
-## 📂 Project Structure
-
-```text
-Amazon_Electronics/
-│── Product_Sales_Analysis.ipynb
-│── Sales_Analysis.ipynb
-│── DASHBOARDS.pbix
-│── README.md
-```
-
----
-
 ## 📊 Dataset
 
 The dataset used in this project is publicly available on Kaggle and is not included in this repository due to its size.
